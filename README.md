@@ -1,8 +1,6 @@
 ## what the 🖕 is this?
 #### this is a fork from spacehuhn esp8266_beaconSpam lib. Only change is some emoitcon, so you will this
-![emofi](img/Screenshot_20180720-133351.png)
-
-
+![emofi](img/screenshot.png)
 
  ## 🤨 what do you need ?
 #### 🤨 a cheap esp8266 microcontroller and programmer
