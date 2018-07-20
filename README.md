@@ -8,14 +8,10 @@
 ##### 🤨 some humor
 
 ## 🙉 howto ?
-#### 🙉 install the font on your system [option]
-```
-https://github.com/eosrei/twemoji-color-font
-```
-#### 🙉 copy some fun icons (from the browser columns)
-```
-https://unicode.org/emoji/charts/full-emoji-list.html
-```
+#### 🙉 <a href='https://github.com/eosrei/twemoji-color-font'>install the font on your system</a>   [option]
+
+#### 🙉 <a href='https://unicode.org/emoji/charts/full-emoji-list.html'>copy some fun icons </a>(from the browser columns)
+
 ##### 🤨 copy the .ino file and flash 
 ```
 add some fun emoticons in the ssids[]. Make them unique
