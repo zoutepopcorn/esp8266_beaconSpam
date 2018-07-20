@@ -1,5 +1,26 @@
-# ESP8266 Beacon Spam
+## what the 🖕 is this?
+#### this is a fork from spacehuhn esp8266_beaconSpam lib. Only change is some emoitcon 
 
+ ## 🤨 what do you need ?
+#### 🤨 a cheap esp8266 microcontroller and programmer
+##### 🤨 knowledge howto flash the thing (all over the internet) 
+##### 🤨 some humor
+
+## 🙉 howto ?
+#### 🙉 install the font on your system [option]
+```
+https://github.com/eosrei/twemoji-color-font
+```
+#### 🙉 copy some fun icont (from the browser columns)
+```
+https://unicode.org/emoji/charts/full-emoji-list.html
+```
+##### 🤨 copy the .ino file and flash 
+```
+add some fun emoticons in the ssids[]. Make them unique
+```
+
+# ESP8266 Beacon Spam (original readme)
 
 <p align="center"><img alt="project-logo" width="300" src="https://raw.githubusercontent.com/spacehuhn/esp8266_beaconSpam/master/img/beacon_spam.png"></p>
  
