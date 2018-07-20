@@ -20,6 +20,12 @@ https://unicode.org/emoji/charts/full-emoji-list.html
 add some fun emoticons in the ssids[]. Make them unique
 ```
 
+##  OOPSIE its not working 
+```
+Some emoticons refuse to be a hotspot. Just do some fiddle and flash the ESP multiple times. Don't know the problem...
+```
+
+
 # ESP8266 Beacon Spam (original readme)
 
 <p align="center"><img alt="project-logo" width="300" src="https://raw.githubusercontent.com/spacehuhn/esp8266_beaconSpam/master/img/beacon_spam.png"></p>
