@@ -29,16 +29,22 @@ const bool wpa2 = false; // WPA2 networks
 */
 const char ssids[] PROGMEM = {
    " sunglasses 😎\n"
-   "smiling face ☺\n"
-   "hugging face 🤗\n"
-   "thinking face 🤔\n"
-   "eyebrow 🤨\n"
-   "neutral face 😐\n"
-   "without mouth 😶\n"
-   "rolling eyes 🙄\n"
-   "zipper-mouth 🤐\n"
-   "hushed face 😯\n"
-   "sleeping 😴\n"
+   " smiling  ☺\n"
+   " hugging  🤗\n"
+   " thinking  🤔\n"
+   " eyebrow 🤨\n"
+   " neutral  😐\n"
+   " without mouth 😶\n"
+   " rolling eyes 🙄\n"
+   " zipper-mouth 🤐\n"
+   " hushed face 😯\n"
+   " sleeping 😴\n"
+   " tongue 😛\n"
+   " winking 😉\n"
+   " hugging 🤗\n"
+   " star-struck 🤩\n"
+   " thinking 🤔\n"
+   " smirking 😏\n"
 };
 // ==================== //
 
