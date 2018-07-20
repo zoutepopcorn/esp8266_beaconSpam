@@ -28,15 +28,17 @@ const bool wpa2 = false; // WPA2 networks
   - don't add duplicates! You have to change one character at least
 */
 const char ssids[] PROGMEM = {
-  "  🤣\n"
-  " 🤣\n"
-  " 😆\n"
-  " 😉\n"
-  " 😍\n"
-  " 😋\n"
-  "  😅\n" 
-  "  🙁\n"
-    
+   " sunglasses 😎\n"
+   "smiling face ☺\n"
+   "hugging face 🤗\n"
+   "thinking face 🤔\n"
+   "eyebrow 🤨\n"
+   "neutral face 😐\n"
+   "without mouth 😶\n"
+   "rolling eyes 🙄\n"
+   "zipper-mouth 🤐\n"
+   "hushed face 😯\n"
+   "sleeping 😴\n"
 };
 // ==================== //
 
