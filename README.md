@@ -11,7 +11,7 @@
 ```
 https://github.com/eosrei/twemoji-color-font
 ```
-#### 🙉 copy some fun icont (from the browser columns)
+#### 🙉 copy some fun icons (from the browser columns)
 ```
 https://unicode.org/emoji/charts/full-emoji-list.html
 ```
